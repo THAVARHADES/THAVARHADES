@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Django,scikit_learn**
+- 🌱 I’m currently learning **JavaScript,Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/THAVARHADES](https://github.com/THAVARHADES)
 
